@@ -2,4 +2,8 @@ print("Hello world")
 
 
 def fun(n):
-    return n + 2
+    return n + 20
+
+
+def another_fun():
+    print("M")
