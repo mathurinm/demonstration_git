@@ -2,7 +2,7 @@ print("Hello world")
 
 
 def fun(n):
-    return n + 20
+    return n + 5
 
 
 def another_fun():
